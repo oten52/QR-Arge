@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\orcun.ten.ARKSOFT\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\orcun.ten.ARKSOFT\\.nuget\\packages"
+    ]
+  }
+}

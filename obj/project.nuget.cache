@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VahuTQ7OdBJno/uNZUWeL9/QYwDMUvKy/qoiYXlB/gZEu2QuCl3hPKqP0crCkF+YtDy8clxa9NvR5JMnNi+uYQ==",
+  "success": true,
+  "projectFilePath": "D:\\ARKSOFT\\Projeler\\AR-GE\\CryptoAr-Ge\\QRCodeGenerater\\QRCodeGenerater.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\orcun.ten.ARKSOFT\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\orcun.ten.ARKSOFT\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\orcun.ten.ARKSOFT\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512",
+    "C:\\Users\\orcun.ten.ARKSOFT\\.nuget\\packages\\system.drawing.common\\5.0.3\\system.drawing.common.5.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
